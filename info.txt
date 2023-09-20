@@ -1,0 +1,1 @@
+-e .   in requirments.txt which automatically trigger the setup.py file
